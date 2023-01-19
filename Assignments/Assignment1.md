@@ -1,3 +1,6 @@
+---
+marp: false
+---
 # Assisgnment I:  Numerical and Computational Methods in Reseach (PYL 800) 2022-2023
 
 ##  Course Instructor: Suprit Singh
